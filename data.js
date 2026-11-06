@@ -1,6 +1,6 @@
 /* EDIT FILE INI UNTUK SETIAP UNDANGAN BARU. Jangan ubah nama properti di sebelah kiri. */
 window.INVITATION_DATA = {
-  couple: "Syariff & Salsa",
+  couple: "Syarif & Salsa",
   groom: "Ahmad Syariffudin",
   groomOrder: "Putra dari:",
   groomParents: "Bapak Amirudin & Ibu Lala Komalasari (Almh)",
